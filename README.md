@@ -6,3 +6,7 @@ As the card is passed purely on the basis of proofs, this avoids conflicts betwe
 The app uses firebase realtime database and firebase storage in the backend
 
 Reach me out using my social handles, for any queries reagrding this project.
+
+Databse Schema is given below 
+<img width="210" alt="image" src="https://user-images.githubusercontent.com/120211535/236640496-140cb24f-0315-43a4-b4ff-51ba49dcb742.png">
+
